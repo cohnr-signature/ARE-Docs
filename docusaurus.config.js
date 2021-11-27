@@ -8,13 +8,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Signature AR&E Documentation',
   tagline: 'Doing the work',
-  url: 'https://are-docs.sigtheatre.org',
-  baseUrl: '/',
+  url: 'https://cohnr-signature.github.io/',
+  baseUrl: '/ARE-Docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'cohnr-signature', // Usually your GitHub org/user name.
-  projectName: 'are-docs', // Usually your repo name.
+  projectName: 'ARE-Docs', // Usually your repo name.
+  trailingSlash: false,
 
   presets: [
     [

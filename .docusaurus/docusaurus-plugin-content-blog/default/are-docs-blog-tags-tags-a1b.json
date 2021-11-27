@@ -1,0 +1,30 @@
+{
+  "/ARE-Docs/blog/tags/facebook": {
+    "allTagsPath": "/ARE-Docs/blog/tags",
+    "slug": "/ARE-Docs/blog/tags/facebook",
+    "name": "facebook",
+    "count": 1,
+    "permalink": "/ARE-Docs/blog/tags/facebook"
+  },
+  "/ARE-Docs/blog/tags/hello": {
+    "allTagsPath": "/ARE-Docs/blog/tags",
+    "slug": "/ARE-Docs/blog/tags/hello",
+    "name": "hello",
+    "count": 2,
+    "permalink": "/ARE-Docs/blog/tags/hello"
+  },
+  "/ARE-Docs/blog/tags/docusaurus": {
+    "allTagsPath": "/ARE-Docs/blog/tags",
+    "slug": "/ARE-Docs/blog/tags/docusaurus",
+    "name": "docusaurus",
+    "count": 4,
+    "permalink": "/ARE-Docs/blog/tags/docusaurus"
+  },
+  "/ARE-Docs/blog/tags/hola": {
+    "allTagsPath": "/ARE-Docs/blog/tags",
+    "slug": "/ARE-Docs/blog/tags/hola",
+    "name": "hola",
+    "count": 1,
+    "permalink": "/ARE-Docs/blog/tags/hola"
+  }
+}

@@ -1,13 +1,14 @@
 export default {
   "title": "Signature AR&E Documentation",
   "tagline": "Doing the work",
-  "url": "https://are-docs.sigtheatre.org",
+  "url": "https://aredocs.sigtheatre.org/",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "cohnr-signature",
-  "projectName": "are-docs",
+  "projectName": "ARE-Docs",
+  "trailingSlash": false,
   "presets": [
     [
       "@docusaurus/preset-classic",

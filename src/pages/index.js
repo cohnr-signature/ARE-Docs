@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/WSYWAT/overview">
-            Docusaurus Tutorial - 5min ⏱️
+            We See You White American Theatre: Breakdown
           </Link>
         </div>
       </div>
@@ -33,7 +33,6 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
       </main>
     </Layout>
   );

@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Signature AR&E Documentation',
   tagline: 'Doing the work',
-  url: 'https://cohnr-signature.github.io/',
-  baseUrl: '/ARE-Docs/',
+  url: 'https://aredocs.sigtheatre.org/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

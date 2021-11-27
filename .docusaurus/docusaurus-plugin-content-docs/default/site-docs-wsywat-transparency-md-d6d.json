@@ -1,0 +1,27 @@
+{
+  "unversionedId": "WSYWAT/transparency",
+  "id": "WSYWAT/transparency",
+  "isDocsHomePage": false,
+  "title": "Transparency",
+  "description": "Publishing Board and Corporate Affiliations",
+  "source": "@site/docs/WSYWAT/transparency.md",
+  "sourceDirName": "WSYWAT",
+  "slug": "/WSYWAT/transparency",
+  "permalink": "/docs/WSYWAT/transparency",
+  "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/transparency.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Artistic & Curatorial Practices",
+    "permalink": "/docs/WSYWAT/artistic-and-curatorial-practices"
+  },
+  "next": {
+    "title": "Compensation",
+    "permalink": "/docs/WSYWAT/compensation"
+  }
+}

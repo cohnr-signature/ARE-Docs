@@ -1,0 +1,27 @@
+{
+  "unversionedId": "WSYWAT/working-conditions-hiring-practices",
+  "id": "WSYWAT/working-conditions-hiring-practices",
+  "isDocsHomePage": false,
+  "title": "Working Conditions & Hiring Practices",
+  "description": "Creation of BIPOC Affinity Spaces",
+  "source": "@site/docs/WSYWAT/working-conditions-hiring-practices.md",
+  "sourceDirName": "WSYWAT",
+  "slug": "/WSYWAT/working-conditions-hiring-practices",
+  "permalink": "/docs/WSYWAT/working-conditions-hiring-practices",
+  "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/working-conditions-hiring-practices.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cultural Competency",
+    "permalink": "/docs/WSYWAT/cultural-competency"
+  },
+  "next": {
+    "title": "Artistic & Curatorial Practices",
+    "permalink": "/docs/WSYWAT/artistic-and-curatorial-practices"
+  }
+}

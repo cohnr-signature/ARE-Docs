@@ -1,0 +1,78 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "WSYWAT/overview",
+          "docs": [
+            {
+              "id": "WSYWAT/academic-and-professional-training-programs",
+              "path": "/docs/WSYWAT/academic-and-professional-training-programs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "WSYWAT/accountability-and-boards",
+              "path": "/docs/WSYWAT/accountability-and-boards",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "WSYWAT/artistic-and-curatorial-practices",
+              "path": "/docs/WSYWAT/artistic-and-curatorial-practices",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "WSYWAT/commercial-and-broadway",
+              "path": "/docs/WSYWAT/commercial-and-broadway",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "WSYWAT/compensation",
+              "path": "/docs/WSYWAT/compensation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "WSYWAT/cultural-competency",
+              "path": "/docs/WSYWAT/cultural-competency",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "WSYWAT/funding-and-resources",
+              "path": "/docs/WSYWAT/funding-and-resources",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "WSYWAT/overview",
+              "path": "/docs/WSYWAT/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "WSYWAT/press",
+              "path": "/docs/WSYWAT/press",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "WSYWAT/transparency",
+              "path": "/docs/WSYWAT/transparency",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "WSYWAT/unions",
+              "path": "/docs/WSYWAT/unions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "WSYWAT/working-conditions-hiring-practices",
+              "path": "/docs/WSYWAT/working-conditions-hiring-practices",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

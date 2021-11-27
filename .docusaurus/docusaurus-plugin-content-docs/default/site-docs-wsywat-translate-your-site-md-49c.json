@@ -1,0 +1,23 @@
+{
+  "unversionedId": "WSYWAT/translate-your-site",
+  "id": "WSYWAT/translate-your-site",
+  "isDocsHomePage": false,
+  "title": "Cultural Competency",
+  "description": "",
+  "source": "@site/docs/WSYWAT/translate-your-site.md",
+  "sourceDirName": "WSYWAT",
+  "slug": "/WSYWAT/translate-your-site",
+  "permalink": "/docs/WSYWAT/translate-your-site",
+  "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/translate-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  }
+}

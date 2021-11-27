@@ -1,0 +1,27 @@
+{
+  "unversionedId": "WSYWAT/accountability-and-boards",
+  "id": "WSYWAT/accountability-and-boards",
+  "isDocsHomePage": false,
+  "title": "Accountability & Boards",
+  "description": "Diversifying Boards",
+  "source": "@site/docs/WSYWAT/accountability-and-boards.md",
+  "sourceDirName": "WSYWAT",
+  "slug": "/WSYWAT/accountability-and-boards",
+  "permalink": "/docs/WSYWAT/accountability-and-boards",
+  "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/accountability-and-boards.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Compensation",
+    "permalink": "/docs/WSYWAT/compensation"
+  },
+  "next": {
+    "title": "Funding & Resources",
+    "permalink": "/docs/WSYWAT/funding-and-resources"
+  }
+}

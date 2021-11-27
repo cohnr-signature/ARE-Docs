@@ -1,0 +1,653 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "tagsPath": "/docs/tags",
+          "versionEditUrl": "https://github.com/cohnr-signature/are-docs/docs",
+          "versionEditUrlLocalized": "https://github.com/cohnr-signature/are-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/robert-local/gitrepos/signature/are-docs/sidebars.js",
+          "contentPath": "/Users/robert-local/gitrepos/signature/are-docs/docs",
+          "contentPathLocalized": "/Users/robert-local/gitrepos/signature/are-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "WSYWAT/overview",
+          "docs": [
+            {
+              "unversionedId": "WSYWAT/academic-and-professional-training-programs",
+              "id": "WSYWAT/academic-and-professional-training-programs",
+              "isDocsHomePage": false,
+              "title": "Academic & Professional Training Programs",
+              "description": "Valuing Anti-Racism",
+              "source": "@site/docs/WSYWAT/academic-and-professional-training-programs.md",
+              "sourceDirName": "WSYWAT",
+              "slug": "/WSYWAT/academic-and-professional-training-programs",
+              "permalink": "/docs/WSYWAT/academic-and-professional-training-programs",
+              "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/academic-and-professional-training-programs.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 12,
+              "frontMatter": {
+                "sidebar_position": 12
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Press",
+                "permalink": "/docs/WSYWAT/press"
+              }
+            },
+            {
+              "unversionedId": "WSYWAT/accountability-and-boards",
+              "id": "WSYWAT/accountability-and-boards",
+              "isDocsHomePage": false,
+              "title": "Accountability & Boards",
+              "description": "Diversifying Boards",
+              "source": "@site/docs/WSYWAT/accountability-and-boards.md",
+              "sourceDirName": "WSYWAT",
+              "slug": "/WSYWAT/accountability-and-boards",
+              "permalink": "/docs/WSYWAT/accountability-and-boards",
+              "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/accountability-and-boards.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Compensation",
+                "permalink": "/docs/WSYWAT/compensation"
+              },
+              "next": {
+                "title": "Funding & Resources",
+                "permalink": "/docs/WSYWAT/funding-and-resources"
+              }
+            },
+            {
+              "unversionedId": "WSYWAT/artistic-and-curatorial-practices",
+              "id": "WSYWAT/artistic-and-curatorial-practices",
+              "isDocsHomePage": false,
+              "title": "Artistic & Curatorial Practices",
+              "description": "Shifting Artistic BIPOC Power Dynamic",
+              "source": "@site/docs/WSYWAT/artistic-and-curatorial-practices.md",
+              "sourceDirName": "WSYWAT",
+              "slug": "/WSYWAT/artistic-and-curatorial-practices",
+              "permalink": "/docs/WSYWAT/artistic-and-curatorial-practices",
+              "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/artistic-and-curatorial-practices.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Working Conditions & Hiring Practices",
+                "permalink": "/docs/WSYWAT/working-conditions-hiring-practices"
+              },
+              "next": {
+                "title": "Transparency",
+                "permalink": "/docs/WSYWAT/transparency"
+              }
+            },
+            {
+              "unversionedId": "WSYWAT/commercial-and-broadway",
+              "id": "WSYWAT/commercial-and-broadway",
+              "isDocsHomePage": false,
+              "title": "Commercial Theatre & Broadway",
+              "description": "Guiding Unions into Anti-Racism",
+              "source": "@site/docs/WSYWAT/commercial-and-broadway.md",
+              "sourceDirName": "WSYWAT",
+              "slug": "/WSYWAT/commercial-and-broadway",
+              "permalink": "/docs/WSYWAT/commercial-and-broadway",
+              "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/commercial-and-broadway.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Funding & Resources",
+                "permalink": "/docs/WSYWAT/funding-and-resources"
+              },
+              "next": {
+                "title": "Unions",
+                "permalink": "/docs/WSYWAT/unions"
+              }
+            },
+            {
+              "unversionedId": "WSYWAT/compensation",
+              "id": "WSYWAT/compensation",
+              "isDocsHomePage": false,
+              "title": "Compensation",
+              "description": "Paying Executives Equitably",
+              "source": "@site/docs/WSYWAT/compensation.md",
+              "sourceDirName": "WSYWAT",
+              "slug": "/WSYWAT/compensation",
+              "permalink": "/docs/WSYWAT/compensation",
+              "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/compensation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Transparency",
+                "permalink": "/docs/WSYWAT/transparency"
+              },
+              "next": {
+                "title": "Accountability & Boards",
+                "permalink": "/docs/WSYWAT/accountability-and-boards"
+              }
+            },
+            {
+              "unversionedId": "WSYWAT/cultural-competency",
+              "id": "WSYWAT/cultural-competency",
+              "isDocsHomePage": false,
+              "title": "Cultural Competency",
+              "description": "Acknowledgement of Indigenous Peoples",
+              "source": "@site/docs/WSYWAT/cultural-competency.md",
+              "sourceDirName": "WSYWAT",
+              "slug": "/WSYWAT/cultural-competency",
+              "permalink": "/docs/WSYWAT/cultural-competency",
+              "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/cultural-competency.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/docs/WSYWAT/overview"
+              },
+              "next": {
+                "title": "Working Conditions & Hiring Practices",
+                "permalink": "/docs/WSYWAT/working-conditions-hiring-practices"
+              }
+            },
+            {
+              "unversionedId": "WSYWAT/funding-and-resources",
+              "id": "WSYWAT/funding-and-resources",
+              "isDocsHomePage": false,
+              "title": "Funding & Resources",
+              "description": "Funding Sustainable Growth",
+              "source": "@site/docs/WSYWAT/funding-and-resources.md",
+              "sourceDirName": "WSYWAT",
+              "slug": "/WSYWAT/funding-and-resources",
+              "permalink": "/docs/WSYWAT/funding-and-resources",
+              "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/funding-and-resources.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Accountability & Boards",
+                "permalink": "/docs/WSYWAT/accountability-and-boards"
+              },
+              "next": {
+                "title": "Commercial Theatre & Broadway",
+                "permalink": "/docs/WSYWAT/commercial-and-broadway"
+              }
+            },
+            {
+              "unversionedId": "WSYWAT/overview",
+              "id": "WSYWAT/overview",
+              "isDocsHomePage": false,
+              "title": "Overview",
+              "description": "From September 2020 through March 2021, Signature’s WeSeeYouWAT Subcommittee, consisting of six full-time staff members from the AR&E Working Group, representing a variety of positions, tenure, and perspectives, met on a weekly basis to undergo a deep analysis and thoughtful discussion on the document “BIPOC Demands for White American Theatre”.",
+              "source": "@site/docs/WSYWAT/overview.md",
+              "sourceDirName": "WSYWAT",
+              "slug": "/WSYWAT/overview",
+              "permalink": "/docs/WSYWAT/overview",
+              "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/overview.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Cultural Competency",
+                "permalink": "/docs/WSYWAT/cultural-competency"
+              }
+            },
+            {
+              "unversionedId": "WSYWAT/press",
+              "id": "WSYWAT/press",
+              "isDocsHomePage": false,
+              "title": "Press",
+              "description": "Seeing Through an Anti-Racist Lens",
+              "source": "@site/docs/WSYWAT/press.md",
+              "sourceDirName": "WSYWAT",
+              "slug": "/WSYWAT/press",
+              "permalink": "/docs/WSYWAT/press",
+              "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/press.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "sidebar_position": 11
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Unions",
+                "permalink": "/docs/WSYWAT/unions"
+              },
+              "next": {
+                "title": "Academic & Professional Training Programs",
+                "permalink": "/docs/WSYWAT/academic-and-professional-training-programs"
+              }
+            },
+            {
+              "unversionedId": "WSYWAT/transparency",
+              "id": "WSYWAT/transparency",
+              "isDocsHomePage": false,
+              "title": "Transparency",
+              "description": "Publishing Board and Corporate Affiliations",
+              "source": "@site/docs/WSYWAT/transparency.md",
+              "sourceDirName": "WSYWAT",
+              "slug": "/WSYWAT/transparency",
+              "permalink": "/docs/WSYWAT/transparency",
+              "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/transparency.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Artistic & Curatorial Practices",
+                "permalink": "/docs/WSYWAT/artistic-and-curatorial-practices"
+              },
+              "next": {
+                "title": "Compensation",
+                "permalink": "/docs/WSYWAT/compensation"
+              }
+            },
+            {
+              "unversionedId": "WSYWAT/unions",
+              "id": "WSYWAT/unions",
+              "isDocsHomePage": false,
+              "title": "Unions",
+              "description": "For Actors Equity Association",
+              "source": "@site/docs/WSYWAT/unions.md",
+              "sourceDirName": "WSYWAT",
+              "slug": "/WSYWAT/unions",
+              "permalink": "/docs/WSYWAT/unions",
+              "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/unions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Commercial Theatre & Broadway",
+                "permalink": "/docs/WSYWAT/commercial-and-broadway"
+              },
+              "next": {
+                "title": "Press",
+                "permalink": "/docs/WSYWAT/press"
+              }
+            },
+            {
+              "unversionedId": "WSYWAT/working-conditions-hiring-practices",
+              "id": "WSYWAT/working-conditions-hiring-practices",
+              "isDocsHomePage": false,
+              "title": "Working Conditions & Hiring Practices",
+              "description": "Creation of BIPOC Affinity Spaces",
+              "source": "@site/docs/WSYWAT/working-conditions-hiring-practices.md",
+              "sourceDirName": "WSYWAT",
+              "slug": "/WSYWAT/working-conditions-hiring-practices",
+              "permalink": "/docs/WSYWAT/working-conditions-hiring-practices",
+              "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/working-conditions-hiring-practices.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Cultural Competency",
+                "permalink": "/docs/WSYWAT/cultural-competency"
+              },
+              "next": {
+                "title": "Artistic & Curatorial Practices",
+                "permalink": "/docs/WSYWAT/artistic-and-curatorial-practices"
+              }
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "We See You White American Theatre",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "WSYWAT/overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "WSYWAT/cultural-competency"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "WSYWAT/working-conditions-hiring-practices"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "WSYWAT/artistic-and-curatorial-practices"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "WSYWAT/transparency"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "WSYWAT/compensation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "WSYWAT/accountability-and-boards"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "WSYWAT/funding-and-resources"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "WSYWAT/commercial-and-broadway"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "WSYWAT/unions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "WSYWAT/press"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "WSYWAT/academic-and-professional-training-programs"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "editUrl": "https://github.com/cohnr-signature/are-docs/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/blog/mdx-blog-post",
+            "editUrl": "https://github.com/cohnr-signature/are-docs/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/blog/long-blog-post",
+            "editUrl": "https://github.com/cohnr-signature/are-docs/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "truncated": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/blog/first-blog-post",
+            "editUrl": "https://github.com/cohnr-signature/are-docs/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ]
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/facebook": {
+          "name": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/facebook"
+        },
+        "/blog/tags/hello": {
+          "name": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/blog/tags/hello"
+        },
+        "/blog/tags/docusaurus": {
+          "name": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/docusaurus"
+        },
+        "/blog/tags/hola": {
+          "name": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/hola"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

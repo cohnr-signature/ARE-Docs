@@ -1,0 +1,27 @@
+{
+  "unversionedId": "WSYWAT/unions",
+  "id": "WSYWAT/unions",
+  "isDocsHomePage": false,
+  "title": "Unions",
+  "description": "For Actors Equity Association",
+  "source": "@site/docs/WSYWAT/unions.md",
+  "sourceDirName": "WSYWAT",
+  "slug": "/WSYWAT/unions",
+  "permalink": "/docs/WSYWAT/unions",
+  "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/unions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Commercial Theatre & Broadway",
+    "permalink": "/docs/WSYWAT/commercial-and-broadway"
+  },
+  "next": {
+    "title": "Press",
+    "permalink": "/docs/WSYWAT/press"
+  }
+}

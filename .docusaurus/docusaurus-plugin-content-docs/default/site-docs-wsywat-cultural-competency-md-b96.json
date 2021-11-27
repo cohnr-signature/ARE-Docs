@@ -1,0 +1,27 @@
+{
+  "unversionedId": "WSYWAT/cultural-competency",
+  "id": "WSYWAT/cultural-competency",
+  "isDocsHomePage": false,
+  "title": "Cultural Competency",
+  "description": "Acknowledgement of Indigenous Peoples",
+  "source": "@site/docs/WSYWAT/cultural-competency.md",
+  "sourceDirName": "WSYWAT",
+  "slug": "/WSYWAT/cultural-competency",
+  "permalink": "/docs/WSYWAT/cultural-competency",
+  "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/cultural-competency.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/WSYWAT/overview"
+  },
+  "next": {
+    "title": "Working Conditions & Hiring Practices",
+    "permalink": "/docs/WSYWAT/working-conditions-hiring-practices"
+  }
+}

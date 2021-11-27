@@ -1,0 +1,23 @@
+{
+  "unversionedId": "WSYWAT/overview",
+  "id": "WSYWAT/overview",
+  "isDocsHomePage": false,
+  "title": "Overview",
+  "description": "From September 2020 through March 2021, Signature’s WeSeeYouWAT Subcommittee, consisting of six full-time staff members from the AR&E Working Group, representing a variety of positions, tenure, and perspectives, met on a weekly basis to undergo a deep analysis and thoughtful discussion on the document “BIPOC Demands for White American Theatre”.",
+  "source": "@site/docs/WSYWAT/overview.md",
+  "sourceDirName": "WSYWAT",
+  "slug": "/WSYWAT/overview",
+  "permalink": "/docs/WSYWAT/overview",
+  "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Cultural Competency",
+    "permalink": "/docs/WSYWAT/cultural-competency"
+  }
+}

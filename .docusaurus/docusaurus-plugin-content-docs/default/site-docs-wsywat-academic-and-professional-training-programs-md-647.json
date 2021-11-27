@@ -1,0 +1,23 @@
+{
+  "unversionedId": "WSYWAT/academic-and-professional-training-programs",
+  "id": "WSYWAT/academic-and-professional-training-programs",
+  "isDocsHomePage": false,
+  "title": "Academic & Professional Training Programs",
+  "description": "Valuing Anti-Racism",
+  "source": "@site/docs/WSYWAT/academic-and-professional-training-programs.md",
+  "sourceDirName": "WSYWAT",
+  "slug": "/WSYWAT/academic-and-professional-training-programs",
+  "permalink": "/docs/WSYWAT/academic-and-professional-training-programs",
+  "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/academic-and-professional-training-programs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Press",
+    "permalink": "/docs/WSYWAT/press"
+  }
+}

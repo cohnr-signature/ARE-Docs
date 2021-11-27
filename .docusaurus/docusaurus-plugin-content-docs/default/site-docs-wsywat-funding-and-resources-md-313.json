@@ -1,0 +1,27 @@
+{
+  "unversionedId": "WSYWAT/funding-and-resources",
+  "id": "WSYWAT/funding-and-resources",
+  "isDocsHomePage": false,
+  "title": "Funding & Resources",
+  "description": "Funding Sustainable Growth",
+  "source": "@site/docs/WSYWAT/funding-and-resources.md",
+  "sourceDirName": "WSYWAT",
+  "slug": "/WSYWAT/funding-and-resources",
+  "permalink": "/docs/WSYWAT/funding-and-resources",
+  "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/funding-and-resources.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Accountability & Boards",
+    "permalink": "/docs/WSYWAT/accountability-and-boards"
+  },
+  "next": {
+    "title": "Commercial Theatre & Broadway",
+    "permalink": "/docs/WSYWAT/commercial-and-broadway"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "WSYWAT/commercial-and-broadway",
+  "id": "WSYWAT/commercial-and-broadway",
+  "isDocsHomePage": false,
+  "title": "Commercial Theatre & Broadway",
+  "description": "Guiding Unions into Anti-Racism",
+  "source": "@site/docs/WSYWAT/commercial-and-broadway.md",
+  "sourceDirName": "WSYWAT",
+  "slug": "/WSYWAT/commercial-and-broadway",
+  "permalink": "/docs/WSYWAT/commercial-and-broadway",
+  "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/commercial-and-broadway.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Funding & Resources",
+    "permalink": "/docs/WSYWAT/funding-and-resources"
+  },
+  "next": {
+    "title": "Unions",
+    "permalink": "/docs/WSYWAT/unions"
+  }
+}

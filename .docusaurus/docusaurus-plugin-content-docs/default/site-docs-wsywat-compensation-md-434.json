@@ -1,0 +1,27 @@
+{
+  "unversionedId": "WSYWAT/compensation",
+  "id": "WSYWAT/compensation",
+  "isDocsHomePage": false,
+  "title": "Compensation",
+  "description": "Paying Executives Equitably",
+  "source": "@site/docs/WSYWAT/compensation.md",
+  "sourceDirName": "WSYWAT",
+  "slug": "/WSYWAT/compensation",
+  "permalink": "/docs/WSYWAT/compensation",
+  "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/compensation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Transparency",
+    "permalink": "/docs/WSYWAT/transparency"
+  },
+  "next": {
+    "title": "Accountability & Boards",
+    "permalink": "/docs/WSYWAT/accountability-and-boards"
+  }
+}

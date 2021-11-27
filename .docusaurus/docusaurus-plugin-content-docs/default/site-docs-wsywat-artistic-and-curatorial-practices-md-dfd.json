@@ -1,0 +1,27 @@
+{
+  "unversionedId": "WSYWAT/artistic-and-curatorial-practices",
+  "id": "WSYWAT/artistic-and-curatorial-practices",
+  "isDocsHomePage": false,
+  "title": "Artistic & Curatorial Practices",
+  "description": "Shifting Artistic BIPOC Power Dynamic",
+  "source": "@site/docs/WSYWAT/artistic-and-curatorial-practices.md",
+  "sourceDirName": "WSYWAT",
+  "slug": "/WSYWAT/artistic-and-curatorial-practices",
+  "permalink": "/docs/WSYWAT/artistic-and-curatorial-practices",
+  "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/artistic-and-curatorial-practices.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Working Conditions & Hiring Practices",
+    "permalink": "/docs/WSYWAT/working-conditions-hiring-practices"
+  },
+  "next": {
+    "title": "Transparency",
+    "permalink": "/docs/WSYWAT/transparency"
+  }
+}

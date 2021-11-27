@@ -1,0 +1,27 @@
+{
+  "unversionedId": "WSYWAT/press",
+  "id": "WSYWAT/press",
+  "isDocsHomePage": false,
+  "title": "Press",
+  "description": "Seeing Through an Anti-Racist Lens",
+  "source": "@site/docs/WSYWAT/press.md",
+  "sourceDirName": "WSYWAT",
+  "slug": "/WSYWAT/press",
+  "permalink": "/docs/WSYWAT/press",
+  "editUrl": "https://github.com/cohnr-signature/are-docs/docs/WSYWAT/press.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unions",
+    "permalink": "/docs/WSYWAT/unions"
+  },
+  "next": {
+    "title": "Academic & Professional Training Programs",
+    "permalink": "/docs/WSYWAT/academic-and-professional-training-programs"
+  }
+}

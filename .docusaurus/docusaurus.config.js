@@ -50,7 +50,47 @@ export default {
           "items": [
             {
               "label": "Cultural Competency",
-              "to": "/docs/cultural-competency"
+              "to": "/docs/WSYWAT/cultural-competency"
+            },
+            {
+              "label": "Working Conditions & Hiring Practices",
+              "to": "/docs/WSYWAT/working-conditions-hiring-practices"
+            },
+            {
+              "label": "Artistic & Curatorial Practices",
+              "to": "/docs/WSYWAT/artistic-and-curatorial-practices"
+            },
+            {
+              "label": "Transparency",
+              "to": "/docs/WSYWAT/transparency"
+            },
+            {
+              "label": "Compensation",
+              "to": "/docs/WSYWAT/compensation"
+            },
+            {
+              "label": "Accountability & Boards",
+              "to": "/docs/WSYWAT/accountability-and-boards"
+            },
+            {
+              "label": "Funding & Resources",
+              "to": "/docs/WSYWAT/funding-and-resources"
+            },
+            {
+              "label": "Commercial Theatre & Broadway",
+              "to": "/docs/WSYWAT/commercial-and-broadway"
+            },
+            {
+              "label": "Unions",
+              "to": "/docs/WSYWAT/unions"
+            },
+            {
+              "label": "Press",
+              "to": "/docs/WSYWAT/press"
+            },
+            {
+              "label": "Academic & Professional Training Programs",
+              "to": "/docs/WSYWAT/academic-and-professional-training-programs"
             }
           ]
         }

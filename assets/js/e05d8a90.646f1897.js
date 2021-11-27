@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkare_docs=self.webpackChunkare_docs||[]).push([[508],{1605:function(s){s.exports=JSON.parse('{"allTagsPath":"/ARE-Docs/blog/tags","slug":"/ARE-Docs/blog/tags/hola","name":"hola","count":1,"permalink":"/ARE-Docs/blog/tags/hola"}')}}]);

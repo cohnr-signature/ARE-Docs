@@ -27,4 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Builds project
-        run: npm run build
+        run: GIT_USER=cohnr-signature USE_SSH=true yarn deploy
